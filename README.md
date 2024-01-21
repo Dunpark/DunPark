@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=be4bdb&height=300&section=header&text=Ryan%20Par&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=be4bdb&height=300&section=header&text=Ryan%20Park&fontSize=90)
 
 
 <h1 align="center">               <!-- first heading -->
