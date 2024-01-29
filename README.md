@@ -33,11 +33,9 @@ Data Analysis, here I come🚀
 </p>   
     
 # Project
-> - [Armong Project](https://github.com/Dunpark/Armong-Project.git) : Game Related Data Analysis
+> - [Armong Project](https://github.com/Dunpark/Armong-Project.git) : Game Related Data Analysis 🎮
 
 # Study
 
     
 # Certificate📜
-
-       
