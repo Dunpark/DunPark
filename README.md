@@ -39,6 +39,9 @@ Data Analysis, here I come🚀
 > - [혼자 공부하는 머신러닝 + 딥러닝](https://github.com/Dunpark/Hongong_ML-DL.git) : 머신러닝과 딥러닝 개인공부 (from 한빛미디어 유투브)
 > - [매우 쉽게 알려주는 git&github](https://github.com/Dunpark/git-study.git) : 개인적인 업무와 협업에서의 git활용에 관한 개인공부 (from 코딩애플)
 > - [학교수업관련 공부](https://github.com/Dunpark/GMU_Works.git) : 학교 수업관련 공부 내용정리
+> - [빅데이터AI] : 파이썬 전처리부터 프로젝트까지 (from 코리아IT아카데미)
+> - [백준 코딩테스트 모음] : 다양한 코딩문제 풀어보기 (from 백준) 
+
     
 # Certificate📜
 > - [직무부트캠프 - 신입 데이터분석가 되어보기:SQL부터 유저 세분화까지] : SQL 활용한 게임 데이터분석 (from 코멘토)
