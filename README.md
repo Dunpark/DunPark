@@ -46,3 +46,11 @@ Data Analysis, here I come🚀
 # Certificate📜
 > - [직무부트캠프 - 신입 데이터분석가 되어보기:SQL부터 유저 세분화까지] : SQL 활용한 게임 데이터분석 (from 코멘토)
 > - [직무부트캠프 - 현직 빅데이터 분석가와 함께하는 "실전 분석 역량" 기르기] : 네이버 데이터랩과 쇼핑데이터를 활용한 데이터분석 (from 코멘토)
+
+## My git farm 🌱
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/DunPark"
+  height="200em"
+/>
+</a>
