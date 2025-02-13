@@ -40,7 +40,7 @@ Data Analysis, here I come🚀
 > - [매우 쉽게 알려주는 git&github](https://github.com/Dunpark/git-study.git) : 개인적인 업무와 협업에서의 git활용에 관한 개인공부 (from 코딩애플)
 > - [학교수업관련 공부](https://github.com/Dunpark/GMU_Works.git) : 학교 수업관련 공부 내용정리
 > - [빅데이터AI] : 파이썬 전처리부터 프로젝트까지 (from 코리아IT아카데미)
-> - [백준 코딩테스트 모음] : 다양한 코딩문제 풀어보기(https://github.com/Dunpark/baekjoon_ct.git) : 단계별 백준코딩테스트 풀이
+> - [백준 코딩테스트 모음](https://github.com/Dunpark/baekjoon_ct.git) : 단계별 백준코딩테스트 풀이
 > - [빠르게 정리하는 파이썬 기초 문법](https://github.com/Dunpark/Python_basics.git) : 파이썬 기초강좌 (from 코딩애플)
 
     
