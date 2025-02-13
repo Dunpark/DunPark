@@ -41,7 +41,7 @@ Data Analysis, here I come🚀
 > - [학교수업관련 공부](https://github.com/Dunpark/GMU_Works.git) : 학교 수업관련 공부 내용정리
 > - [빅데이터AI] : 파이썬 전처리부터 프로젝트까지 (from 코리아IT아카데미)
 > - [백준 코딩테스트 모음](https://github.com/Dunpark/baekjoon_ct.git) : 단계별 백준코딩테스트 풀이
-> - [파이썬 웹크롤러 + 딥러닝 AI 패키지](https://github.com/Dunpark/Python_basics.git) : 파이썬 기초강좌 (from 코딩애플)
+> - [파이썬 웹크롤러 + 딥러닝 AI 패키지](https://github.com/Dunpark/PythonWebCrawling-DeapLearningAI_Package.git) : 파이썬 웹크롤링 & 딥러닝AI (from 코딩애플)
 
     
 # Certificate📜
