@@ -42,6 +42,7 @@ Data Analysis, here I come🚀
 > - [빅데이터AI] : 파이썬 전처리부터 프로젝트까지 (from 코리아IT아카데미)
 > - [백준 코딩테스트 모음](https://github.com/Dunpark/baekjoon_ct.git) : 단계별 백준코딩테스트 풀이
 > - [파이썬 웹크롤러 + 딥러닝 AI 패키지](https://github.com/Dunpark/PythonWebCrawling-DeapLearningAI_Package.git) : 파이썬 웹크롤링 & 딥러닝AI (from 코딩애플)
+> - [태블로 독학](https://github.com/Dunpark/Tableau_SelfStudy.git) : 각종 공부자료를 통한 타블로 독학
 
     
 # Certificate📜
